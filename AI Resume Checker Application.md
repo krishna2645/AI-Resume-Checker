@@ -61,7 +61,7 @@ AI-Resume-Checker/
 
 ## 🔗 Download
 Upload this project to **Google Drive** and share the link here:  
-[Download Project from Google Drive](https://drive.google.com/drive/folders/1Zha0YheWr8Ce0hhLfVR9fnhDIRnjlk-2?usp=drive_link)
+[Download Project from Google Drive](https://drive.google.com/drive/folders/1HbDwKO_U3Cj6eqCUZzQ0ZZqOQ5yNjtRj?usp=sharing)
 
 ---
 
