@@ -41,11 +41,17 @@ It leverages **Gemini-based ATS analysis** to provide accurate insights and rank
 
 AI-Resume-Checker/
 │── frontend/        # React/Next.js UI
+
 │── backend/         # Node.js/Express API
+
 │── models/          # Database schemas
+
 │── services/        # Gemini ATS integration
+
 │── uploads/         # Resume storage
+
 │── docs/            # Documentation
+
 │── README.md        # Project overview
 
 
