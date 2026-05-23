@@ -1,4 +1,4 @@
-# AI Resume Checker Application
+# AI Resume Checker Application (download project)
 
 ## 📌 Overview
 The **AI Resume Checker** is a smart application designed to help candidates and recruiters evaluate resumes efficiently.  
