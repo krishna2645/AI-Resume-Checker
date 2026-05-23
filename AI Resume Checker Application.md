@@ -38,3 +38,42 @@ It leverages **Gemini-based ATS analysis** to provide accurate insights and rank
 ---
 
 ## 📂 Project Structure
+
+AI-Resume-Checker/
+│── frontend/        # React/Next.js UI
+│── backend/         # Node.js/Express API
+│── models/          # Database schemas
+│── services/        # Gemini ATS integration
+│── uploads/         # Resume storage
+│── docs/            # Documentation
+│── README.md        # Project overview
+
+
+---
+
+## 📈 Dashboard Analytics
+- Resume scoring based on ATS compatibility.  
+- Candidate ranking for recruiters.  
+- Graphs and charts for performance insights.  
+- History tracking for multiple scans.  
+
+---
+
+## 🔗 Download
+Upload this project to **Google Drive** and share the link here:  
+[Download Project from Google Drive](https://drive.google.com)
+
+---
+
+## 📌 Future Enhancements
+- Integration with LinkedIn for auto-importing resumes.  
+- AI-powered suggestions for resume improvement.  
+- Recruiter collaboration tools.  
+- Mobile app version for quick resume checks.  
+
+---
+
+## 📄 Documentation Notes
+- This file serves as the **main project README**.  
+- Replace the placeholder Google Drive link with your actual project link.  
+- Use this file to guide contributors, recruiters, or collaborators.  
